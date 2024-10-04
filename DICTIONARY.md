@@ -22,29 +22,30 @@ Authors:
 
 ## A quick guide to using the dictionary
 
-
 ## A
 
 1. **Anchulleti**  
     /ʌntʃu:'letɪ/  
     *noun*  
     **Definition:**  
-        1. The name of the WhatsApp group which composed the current dictionary and which vocabulary constitutes the dictionary.  
+        1. The name of the WhatsApp group that gave rise to the present dictionary, and whose vocabulary constitutes the present dictionary.  
     **Etymology:**  
         Aktan, mangling the name Carlo Ancelotti, eventually came to Anchulleti and named the group WhatsApp accordingly.  
     **Example sentences:**  
-        *- Don't spoil normal people, guys, let's talk without Anchulleti vocabulary.*  
-        *- I think they have got their own Anchulleti.*
+        1. *- Don't spoil normal people, guys, let's talk without Anchulleti vocabulary.*  
+        2. *- I think they have got their own Anchulleti.*
 
 ## Y
 
-1. **Y'yo-o-o** /jɔ:/ *interjection*  
+1. **Y'yo-o-o**  
+    /jɔ:/  
+    *interjection*  
     **Definition:**  
         Used to express slightly sarcastic surprise with a hint of annoyance.  
     **Etymology:**  
-        Myrza used to use this interjection in 2022nd, and then it srouted out.  
+        Myrza used to use this interjection in 2022nd, and then it spread.  
     **Phonetics:**  
-        Pronounced with a hoarse, masculine voice.  
+        Pronounced with a hoarse, masculine voice, drawing out the last sound.  
     **Example sentences:**  
         *- We broke and set your laptop on fire, bro.*  
         *- Y'yo-o-o, really?*  
