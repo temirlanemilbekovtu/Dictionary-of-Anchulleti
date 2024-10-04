@@ -24,7 +24,7 @@ Authors:
 
 ## A
 
-1. **Anchulleti**  
+- **Anchulleti**  
     /ʌntʃu:'letɪ/  
     *noun*  
     **Definition:**  
@@ -37,7 +37,7 @@ Authors:
 
 ## Y
 
-1. **Y'yo-o-o**  
+- **Y'yo-o-o**  
     /jɔ:/  
     *interjection*  
     **Definition:**  
