@@ -35,6 +35,21 @@ Authors:
         1. *- Don't spoil normal people, guys, let's talk without Anchulleti vocabulary.*  
         2. *- I think they have got their own Anchulleti.*
 
+## B
+
+- **Baizak**  
+    /bʌj'zʌq/  
+    *noun*  
+    **Definition:**  
+    A character who has had a very negative impact on a part of SCA-22B group for decent amounts of time and has caused damage of varying amplitude to people, who has a business with him. A very unpleasant person who is best not to mess with.  
+    **Etymology:**  
+    The history of the emergence of this word, which has become a household word, begins in the late spring of 2024. An agent of the then declared major event "IT-fest" came to the college with the aim of finding free labor among the students. He found students of the SCA-22B group. At that time, they did not know who this agent was. Later, in the second half of the summer of the same year, it turned out that he was the most ordinary swindler. As a result, the guys lost their nerves and the money and Toyota Camry promised to each. The name of this agent was Bayzak. Thus, he became a living symbol of all universal evil preserved in our speech.  
+    **Usage:**  
+    Used to insult the interlocutor or to build other constructions on the basis of this word, which are also intended to cause moral harm to the interlocutor.  
+    **Example sentences:**  
+        *- Bro, go and bite the nails of Baizak.*  
+        *- Y'yo-o-o, you are son of Baizak.*  
+
 ## Y
 
 - **Y'yo-o-o**  
