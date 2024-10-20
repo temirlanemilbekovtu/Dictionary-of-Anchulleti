@@ -49,6 +49,19 @@ Authors:
     **Example sentences:**  
         *- Bro, go and bite the nails of Baizak.*  
         *- Y'yo-o-o, you are son of Baizak.*  
+    ***
+- **Bitir**  
+    /bɨ'tɨr/  
+    *noun*  
+    **Definition:**  
+    Same as: fool, loser, idiot, sucker.  
+    **Etymology:**  
+    Baizak used this word to address his interlocutor in a disparaging manner during a telephone conversation.  
+    **Example sentences:**  
+        1. *- Bitir, where is your commit?*  
+        2. *- Bitir, get cured first.*  
+    **Synonyms:**  
+    Titir, litir, gay gitir, sitir, chitir.
 
 ## Y
 
