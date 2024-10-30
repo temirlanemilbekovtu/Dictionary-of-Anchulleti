@@ -13,12 +13,13 @@ Thank you for your contributing to our dictionary! This project aims to document
 ### Step 2: Define the Word in the Existing Style
 
 **Follow Existing Format:** Please ensure that your definition follows the style and tone of existing entries in the dictionary. This includes:  
+
 - **Headword:** The main word or phrase being defined.
 - **Definition:** A concise explanation of the word or phrase.
 - **Etymology:** Provide a brief origin of the word, such as its roots or initial usage.
 - **Example Usage:** A brief example that illustrates how the word is used in context.
 - **Pronunciation (optional):** If the pronunciation is unique or challenging, include a phonetic guide.
-- **Synonims (optinal):** List any related words or phrases with similar meanings within the local community's slang.
+- **Synonyms (optinal):** List any related words or phrases with similar meanings within the local community's slang.
 
 ### Step 3: Ensure Definitions Are Respectful and Privacy-Conscious
 
@@ -40,7 +41,7 @@ Thank you for your contributing to our dictionary! This project aims to document
 
 - **Feedback and Revisions:** If a reviewer requests changes to your PR, please address them within 14 days. If you’re unable to, let the reviewer know to avoid stalling the review process.
 
-- **Abandoned PRs:** PRs without updates after 30 days may be closed by maintainers. You’re welcome to reopen them later if needed or kick a maintainer physically.
+- **Abandoned PRs:** PRs without updates after 30 days may be closed by maintainers. You’re welcome to reopen them later if needed.
 
 ## Reporting Issues
 
